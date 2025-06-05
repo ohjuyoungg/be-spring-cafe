@@ -1,9 +1,6 @@
 # be-spring-cafe
 2024 마스터즈 백엔드 스프링 카페
 
-# 구현 내용
-- 
-
 # 공부한 내용
 - 스프링 부트 라이브러리
   - spring-boot-starter-tomcat: 톰캣 (웹서버)
@@ -33,4 +30,3 @@
 - 컴포넌트 스캔 방식
 - model.addAttribute()
 - @ModelAttribute
-- 
